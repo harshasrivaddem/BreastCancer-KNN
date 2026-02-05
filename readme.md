@@ -81,4 +81,5 @@ The goal is to build a reliable classification model by:
 ### Example 1
 ```python
 model.predict([[4, 2, 1, 1, 1, 2, 3, 2, 1]])
+Prediction: 2 → Benign
 
